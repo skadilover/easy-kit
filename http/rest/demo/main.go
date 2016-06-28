@@ -1,11 +1,12 @@
 package main
 
 import (
-    "easy-kit/http/rest"
-    "easy-kit/log"
-    "easy-kit/validate"
     "fmt"
     "net/http"
+
+    "github.com/skadilover/easykit/http/rest"
+    "github.com/skadilover/easykit/log"
+    "github.com/skadilover/easykit/validate"
 )
 
 //HelloWorldHandler
