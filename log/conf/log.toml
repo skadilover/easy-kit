@@ -1,0 +1,5 @@
+Path = "./"
+Name = "test.json"
+
+#mode 1 json 0 txt
+Mode=1
